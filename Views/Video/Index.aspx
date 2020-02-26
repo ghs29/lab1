@@ -8,8 +8,11 @@
 </head>
 <body>
     <h1>Opciones</h1>
-    <hr />
-    <a href "/Video/Index">Ver videos</a>
+    <a href "/Video/Create">Agregar Video</a>
+    <br />
+    <a href "/Video/Create">Eliminar video</a>
+    <br />
+    <a href "/video/Create">modificar video</a>
     <br />
 </body>
 </html>
